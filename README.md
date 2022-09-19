@@ -3,6 +3,7 @@
 ![preview](img/screenshot.png)
 
 >A minha Enciclopédia Pokemon!
+Super Awesome!
 
 Porjeto feito por meio do canal CódigoDev
 [Link do vídeo](https://www.youtube.com/watch?v=vdytGGKyJKE)
