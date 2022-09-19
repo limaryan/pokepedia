@@ -1,6 +1,6 @@
 # Pokepédia PT-BR 
 
-![preview](img/screenshot.png)
+![preview](img/preview.png)
 
 >A minha Enciclopédia Pokemon!
 Super Awesome!
